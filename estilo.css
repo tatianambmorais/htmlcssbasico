@@ -1,0 +1,177 @@
+
+body {
+	font-family: Tahoma;
+	font-size: 18px;
+	line-height: 28px;
+}
+p {
+	margin: 10px auto
+}
+.cabeçalho{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin: 10px auto;
+	background-color: #afddfb
+
+	}
+
+.cabeçalho p {
+	margin-top: 15px;
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+
+.logo {
+	width: 150px;
+}
+.link{
+color: black;	
+margin-top: 15px;
+	margin-bottom: 25px;
+	font-size: 18px;
+	border-bottom: 2px solid;
+	text-decoration: none;
+	margin: 0 10px 0 10px;
+}
+.titulo-classe{
+	margin-bottom: 5px;
+	color: #1d1d1d
+}
+
+.banner{
+	text-align:center;
+	padding-top: 0px;
+	padding-bottom: 30px;
+	margin-top: 50px;
+}
+.sobre{
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+.sobre h2{
+color: #1c81c0;
+}
+
+.sobre p{
+	width: 700px;
+	line-height: 42px;
+	justify-content: center;
+}
+.imovel-assinatura{
+	width: 450px;
+
+}
+.cor-azul {
+	color: #1d80c1;
+}
+.serviços {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color:  #1d80c1;
+	
+	
+}
+
+.serviços h2  {
+	color: white;
+	font-size: 28px;
+	line-height: 42px;
+}
+.serviços p {
+	width: 700px;
+	color: #ffffff;
+	line-height: 42px;
+	justify-content: center;
+}
+
+.serviços ul {
+	width: 135px;
+	margin: 40px auto;
+	color: #ffffff;
+	line-height: 42px;
+	text-align: left;
+	font-size: 22px
+}
+
+
+.texto-amarelo{
+	color: rgb(205, 205, 41)
+}
+
+
+.corretores{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.corretores p {
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	width: 700px;
+	line-height: 42px;
+	justify-content: center;
+}
+.imagem-corretor{
+	width: 350px;
+	height: 300px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}	
+.contato{
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #1d80c1;
+}
+
+.contato p{
+	color: #ffffff;
+	background-color: #1d1d1d;
+	padding: 15px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.contato span{
+	color: #fff81b;
+	font-weight: bold;
+}
+
+.iframe{
+	width: 350px;
+	height: 300px;}
+
+.contato ul {
+	
+	margin: 40px 0;
+	width: 210px;
+
+}
+.contato li {
+	margin-top: 15px;
+	font-size: 18px;
+	align-items: center;
+	background-color: #ffffff;
+	color: #1d80c1;
+	padding: 2px 5px;
+	border-radius: 5px;
+}
